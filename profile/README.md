@@ -20,7 +20,7 @@ Xian stands out by blending Tendermint's consensus mechanism with ABCI's flexibi
 
 ## Get involved
 
-Whether you're a developer, tech enthusiast, or haven't your development journey, Xian offers a rich, welcoming experience. Dive into our vibrant ecosystem and start playing around and building things today.
+Whether you're a developer, tech enthusiast, or haven't began your development journey, Xian offers a rich, welcoming experience. Dive into our vibrant ecosystem and start playing around and building things today.
 Powered by Python's simplicity and community-driven innovation, let's explore the endless possibilities together. 
 
 - Are we missing some features or tools you'd love to see ? Let us know, we might make a bounty for it.
