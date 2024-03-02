@@ -2,7 +2,7 @@
 
 ## Introduction to Xian
 
-Xian is a pioneering blockchain project that melds innovation with accessibility in decentralized technology. Utilizing Tendermint consensus and the Application Blockchain Interface (ABCI), Xian offers a secure, scalable, and developer-friendly platform. The project shines with its use of Contracting, a Python-based language designed for blockchain, making smart contract development more accessible.
+Xian is a pioneering blockchain project that melds innovation with accessibility in decentralized technology. Combining the speed and robustness of Tendermint consensus with the simplicity and elegance of Python, Xian offers a secure, scalable, and developer-friendly platform. The project shines with its use of Contracting, a subset of Python designed for writing blockchain applications, which makes smart contract development extremely accessible.
 
 ## The Vision of Xian
 
@@ -11,16 +11,26 @@ Our vision is to democratize blockchain development, creating an inclusive ecosy
 ## Why Xian?
 
 - **Developer Accessibility:** Contracting simplifies smart contract development, welcoming developers from varied backgrounds without sacrificing functionality or security.
-- **Innovative Blockchain Solutions:** Xian pushes the boundaries with advanced solutions for dApps, governance, and more, supporting a broad spectrum of use cases.
+- **Innovative Blockchain Solutions:** Xian offers a familiar environment for developers, where they can feel safe to push the boundaries of blockchain development, using any of the tools available from the expansive python ecosystem.
 - **Empowered Governance:** Our DAO-based governance model ensures community-driven, transparent decision-making, giving stakeholders a voice in the project's direction.
 
 ## What Sets Xian Apart
 
-Xian stands out by blending Tendermint's consensus mechanism with ABCI's flexibility and the innovative Contracting language for smart contracts. This unique combination positions Xian at the forefront of blockchain technology, appealing to developers and investors alike.
+Xian stands out by blending Tendermint's consensus mechanism with ABCI's flexibility and the innovative Contracting language for smart contracts.
 
-## Join Our Journey
+## Get involved
 
-Whether you're a developer, investor, or tech enthusiast, Xian offers a rich, welcoming experience. Dive into our vibrant ecosystem and be a part of the blockchain revolution with Xian.
+Whether you're a developer, tech enthusiast, or haven't your development journey, Xian offers a rich, welcoming experience. Dive into our vibrant ecosystem and start playing around and building things today.
+Powered by Python's simplicity and community-driven innovation, let's explore the endless possibilities together. 
 
-Powered by Python's simplicity and community-driven innovation, let's explore the endless possibilities together.
+- Are we missing some features or tools you'd love to see ? Let us know, we might make a bounty for it.
+- Found a bug ? Tell us and we'll fix it, or better yet - talk to us about working on a bounty for it.
+- Got a cool idea for something to build using Xian ? We'd love to hear about it and support you to explore it more !
+- Find a vulnerability ? Let us know and we'll compensate you in accordance with it's severity.
 
+
+## Come and talk to us !
+
+Telegram : https://t.me/xian_network
+Discord : https://discord.gg/r6HnnvKFq2
+BB : https://forum.xian.org/
