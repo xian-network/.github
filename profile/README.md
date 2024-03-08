@@ -31,5 +31,5 @@ Powered by Python's simplicity and community-driven innovation, let's explore th
 ## Come and talk to us !
 
 Telegram : https://t.me/xian_network
-Discord : https://discord.gg/r6HnnvKFq
+Discord : https://discord.gg/8W9ZMxUYuA
 Github : https://github.com/xian-network
