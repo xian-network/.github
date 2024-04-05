@@ -33,3 +33,4 @@ Powered by Python's simplicity and community-driven innovation, let's explore th
 Telegram : https://t.me/xian_network <br/>
 Discord : https://discord.gg/8W9ZMxUYuA <br/>
 Github : https://github.com/xian-network
+Forum : https://forum.xian.org
