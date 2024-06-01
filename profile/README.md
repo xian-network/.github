@@ -14,7 +14,7 @@ Our vision is to democratize blockchain development, creating an inclusive ecosy
 ## Why Xian?
 
 - **Developer Accessibility:** Contracting simplifies smart contract development, welcoming developers from varied backgrounds without sacrificing functionality or security.
-- **Innovative Blockchain Solutions:** Xian offers a familiar environment for developers, where they can feel safe to push the boundaries of dApp development, using any of the tools available from the expansive python ecosystem.
+- **Innovative Blockchain Solutions:** Xian offers a familiar environment for developers, where they can feel safe to push the boundaries of dApp development, using many of the tools available from the expansive python ecosystem.
 - **Empowered Governance:** Our DAO-based governance model ensures community-driven, transparent decision-making, giving stakeholders a voice in the project's direction.
 
 ## Get involved
