@@ -30,7 +30,8 @@ Powered by Python's simplicity and community-driven innovation, let's explore th
 
 ## Come and talk to us !
 
+Website : https://xian.org <br/>
+docs : https://docs.xian.org <br/>
 Telegram : https://t.me/xian_network <br/>
 Discord : https://discord.gg/8W9ZMxUYuA <br/>
-Github : https://github.com/xian-network <br/>
 Forum : https://forum.xian.org
