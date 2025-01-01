@@ -1,36 +1,42 @@
+# Xian 
+***[ sh ee - ah n ]***
 
-***Xian* - *[ sh ee - ah n ]***
+*An immortal or mythical being from the Taoist pantheon.*
 
-*An immortal or mythical being from the Taoist pantheon.* 
+A next-generation blockchain built with Python smart contracts and CometBFT consensus.
 
-## Introduction to Xian
+## Key Features
 
-Xian is a pioneering blockchain project that melds innovation with accessibility in decentralized technology. Combining the speed and robustness of CometBFT consensus with the simplicity and elegance of Python, Xian offers a secure, scalable, and developer-friendly platform. The project shines with its use of Contracting, a subset of Python designed for writing blockchain applications, which makes smart contract development extremely accessible.
+- Native Python smart contracts
+- CometBFT consensus (2 second blocks, instant finality) 
+- Contract developers earn from transaction fees
+- Advanced storage patterns and contract interactions
+- Rich standard library for contract development
+- Built-in validators and governance system
 
-## The Vision of Xian
+## Documentation
 
-Our vision is to democratize blockchain development, creating an inclusive ecosystem where developers of all backgrounds can innovate. By leveraging Python, we tap into one of the largest developer communities, fostering creativity and diversity.
+- [Quick Start](https://docs.xian.org/introduction/)
+- [Smart Contracts](https://docs.xian.org/smart-contracts/)
+- [Running a Node](https://docs.xian.org/node/running-a-node)
+- [Technical Reference](https://docs.xian.org/node/technology-stack)
 
-## Why Xian?
+## Tools
 
-- **Developer Accessibility:** Contracting simplifies smart contract development, welcoming developers from varied backgrounds without sacrificing functionality or security.
-- **Innovative Blockchain Solutions:** Xian offers a familiar environment for developers, where they can feel safe to push the boundaries of dApp development, using many of the tools available from the expansive python ecosystem.
-- **Empowered Governance:** Our DAO-based governance model ensures community-driven, transparent decision-making, giving stakeholders a voice in the project's direction.
+- [Browser Wallet](https://wallet.xian.org)
+- [Contract Dev Environment](https://docs.xian.org/tools/contract-dev-environment)
+- [xian-js](https://docs.xian.org/tools/xian-js) - JavaScript SDK
+- [xian-py](https://docs.xian.org/tools/xian-py) - Python SDK
 
-## Get involved
+## Network Stats
 
-Whether you're a developer, tech enthusiast, or haven't yet begun your development journey, Xian will offer a rich, welcoming experience. Dive into our vibrant ecosystem and start playing around and building things today.
-Powered by Python's simplicity and community-driven innovation, let's explore the endless possibilities together !
+- Chain ID: xian-network-1
+- Public Node: node.xian.org
+- Block Explorer: explorer.xian.org
 
-- Are we missing some features or tools you'd love to see ? Let us know, we might make a bounty for it.
-- Found a bug ? Lets squash it.
-- Got a cool idea for something to build ? We'd love to hear about it and support you to explore it more.
-- Find a vulnerability ? Let us know and we'll reward you in accordance with it's severity.
+## Community
 
-
-## Come and talk to us !
-
-Telegram : https://t.me/xian_network <br/>
-Discord : https://discord.gg/8W9ZMxUYuA <br/>
-Github : https://github.com/xian-network <br/>
-Forum : https://forum.xian.org
+- Telegram: https://t.me/xian_network
+- Discord: https://discord.gg/8W9ZMxUYuA
+- GitHub: https://github.com/xian-network
+- Forum: https://forum.xian.org
