@@ -1,36 +1,65 @@
+# Xian Network Repositories
 
-***Xian* - *[ sh ee - ah n ]***
+Welcome to the Xian Network's GitHub organization. Below is a curated list of our repositories, each accompanied by a brief description to help you navigate our projects.
 
-*An immortal or mythical being from the Taoist pantheon.* 
+## Core Components
 
-## Introduction to Xian
+- **xian-core**  
+  The backbone of the Xian Network, this repository contains the node implementation based on CometBFT, facilitating consensus and network operations. :contentReference[oaicite:0]{index=0}
 
-Xian is a pioneering blockchain project that melds innovation with accessibility in decentralized technology. Combining the speed and robustness of Tendermint consensus with the simplicity and elegance of Python, Xian offers a secure, scalable, and developer-friendly platform. The project shines with its use of Contracting, a subset of Python designed for writing blockchain applications, which makes smart contract development extremely accessible.
+- **xian-contracting**  
+  A specialized subset of Python tailored for developing smart contracts on the Xian Network, streamlining decentralized application development. :contentReference[oaicite:1]{index=1}
 
-## The Vision of Xian
+- **xian-py**  
+  A Python library designed to interface seamlessly with the Xian Blockchain, enabling developers to integrate Xian functionalities into Python applications. :contentReference[oaicite:2]{index=2}
 
-Our vision is to democratize blockchain development, creating an inclusive ecosystem where developers of all backgrounds can innovate. By leveraging Python, we tap into one of the largest developer communities, fostering creativity and diversity.
+- **xian-js**  
+  A suite of tools for interacting with the Xian blockchain using JavaScript and TypeScript, broadening accessibility for web developers. :contentReference[oaicite:3]{index=3}
 
-## Why Xian?
+## Wallets and User Interfaces
 
-- **Developer Accessibility:** Contracting simplifies smart contract development, welcoming developers from varied backgrounds without sacrificing functionality or security.
-- **Innovative Blockchain Solutions:** Xian offers a familiar environment for developers, where they can feel safe to push the boundaries of blockchain development, using any of the tools available from the expansive python ecosystem.
-- **Empowered Governance:** Our DAO-based governance model ensures community-driven, transparent decision-making, giving stakeholders a voice in the project's direction.
+- **xian-web-wallet**  
+  The official Xian web and browser extension wallet, offering users a secure and intuitive interface for managing their Xian assets. :contentReference[oaicite:4]{index=4}
 
-## Get involved
+## Development Tools
 
-Whether you're a developer, tech enthusiast, or haven't yet begun your development journey, Xian offers a rich, welcoming experience. Dive into our vibrant ecosystem and start playing around and building things today.
-Powered by Python's simplicity and community-driven innovation, let's explore the endless possibilities together !
+- **contract-dev-environment**  
+  Provides a streamlined setup for developers to begin creating smart contracts, complete with example contracts, tests, and comprehensive instructions. :contentReference[oaicite:5]{index=5}
 
-- Are we missing some features or tools you'd love to see ? Let us know, we might make a bounty for it.
-- Found a bug ? Tell us and we'll fix it, or better yet - if you're interested, talk to us about making a bounty for it.
-- Got a cool idea for something to build using Xian ? We'd love to hear about it and support you to explore it more.
-- Find a vulnerability ? Let us know and we'll compensate you in accordance with it's severity.
+- **xian-stack**  
+  A collection of tools and configurations to facilitate the deployment and management of Xian Network components, enhancing developer productivity. :contentReference[oaicite:6]{index=6}
 
+## Standard Contracts and Documentation
 
-## Come and talk to us !
+- **xian-standard-contracts**  
+  The official repository for standardized smart contracts on the Xian blockchain, providing foundational contracts for developers. :contentReference[oaicite:7]{index=7}
 
-Telegram : https://t.me/xian_network
-Discord : https://discord.gg/8W9ZMxUYuA
-Github : https://github.com/xian-network
-Forum : https://forum.xian.org
+- **smart-contracts-docs**  
+  Comprehensive documentation for developing smart contracts on Xian using Contracting, guiding developers through the process.
+
+## Utilities and Integrations
+
+- **dapp-utils**  
+  A JavaScript utility that offers a simple interface for interacting with Xian wallet information and facilitates transaction requests via custom events in web environments.
+
+- **hyperlane-xian**  
+  Integration with Hyperlane, enabling cross-chain communication and interoperability for Xian-based applications.
+
+## Example Projects and Starters
+
+- **dapp-starter-nextjs**  
+  A starter template demonstrating how to interact with the Xian blockchain using React and Next.js, serving as a foundation for decentralized application development.
+
+- **dapp-starter-svelte**  
+  A starter template built with Svelte, showcasing dApp interaction with the Xian wallet, ideal for developers favoring the Svelte framework.
+
+- **dice-game**  
+  An example smart contract game, illustrating the implementation of gaming logic on the Xian blockchain.
+
+## Infrastructure and Deployment
+
+- **ansible-testnet**  
+  An Ansible configuration for setting up and managing Xian testnet nodes, streamlining network deployment for testing purposes.
+
+- **blockchain-agent**  
+  A utility for monitoring and interacting with the Xian blockchain, assisting in network maintenance and operations.
