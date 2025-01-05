@@ -38,5 +38,4 @@ A next-generation blockchain built with Python smart contracts and CometBFT cons
 
 - Telegram: https://t.me/xian_network
 - Discord: https://discord.gg/8W9ZMxUYuA
-- GitHub: https://github.com/xian-network
 - Forum: https://forum.xian.org
