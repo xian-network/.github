@@ -23,7 +23,7 @@ A next-generation blockchain built with Python smart contracts and CometBFT cons
 
 ## Tools
 
-- [Browser Wallet](https://wallet.xian.org)
+- [Browser Wallet](https://chromewebstore.google.com/detail/xian-wallet/kcimjjhplbcgkcnanijkolfillgfanlc)
 - [Contract Dev Environment](https://docs.xian.org/tools/contract-dev-environment)
 - [xian-js](https://docs.xian.org/tools/xian-js) - JavaScript SDK
 - [xian-py](https://docs.xian.org/tools/xian-py) - Python SDK
